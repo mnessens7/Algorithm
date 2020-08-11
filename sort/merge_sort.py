@@ -15,6 +15,8 @@ def merge(x, y):
     else:
         return [x[0]] + merge(x[1:], y)
 print('Hello '+'')
+print('Hello '+'world')
+
 
 a=[8, 4, 3, 9, 6]
 merge_sort(a)
