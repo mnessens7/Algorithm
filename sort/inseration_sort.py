@@ -13,6 +13,7 @@ def insert(a, i):
     else:
         a[0]=temp
 
+
 a=[8, 4, 3, 9, 6]
 inseration_sort(a)
 print(a)
