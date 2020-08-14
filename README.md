@@ -1,7 +1,9 @@
-# git_test
+# ソートアルゴリズム
 
-Hello world を作った
+## ここではソートアルゴリズムを使って以下のことを学ぶ
 
-create branch
+1. アルゴリズム
 
-create branc_b
+1. デバッグ
+
+1. ユニットテスト
