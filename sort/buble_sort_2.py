@@ -4,8 +4,9 @@ def buble_sort(a):
         for j in range(i):
             if a[j] > a[j+1]:
                 a[j], a[j+1] = a[j+1], a[j]
+    return a
 
 
-a = [8, 4, 3, 9, 6]
-buble_sort(a)
-print(a)
+#a = [8, 4, 3, 9, 6]
+#buble_sort(a)
+#print(a)

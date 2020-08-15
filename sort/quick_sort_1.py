@@ -17,6 +17,6 @@ def divide(p, a):
         return (x, [aa]+y)
 
 
-a = [8, 4, 3, 9, 6]
-c = quick_sort(a)
-print(c)
+#a = [8, 4, 3, 9, 6]
+#c = quick_sort(a)
+#print(c)
